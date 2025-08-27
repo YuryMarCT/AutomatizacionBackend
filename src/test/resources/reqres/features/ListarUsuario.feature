@@ -13,4 +13,5 @@ Feature: Listar los usuario que se encuentran existentes
     And match response.data[*].id contains 7
 
     # Para los metodos POST, PUT y DELETE: No se pudieron automatizar porque se esta generando
-    # un {"error":"Missing API key"}
+    # un {"error":"Missing API key"} y se adjunta en la carpeta JsonReqres la collection que
+    # se realizo en Postman Automatizacion_Backend.postman_collection
