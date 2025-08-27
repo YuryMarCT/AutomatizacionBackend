@@ -1,0 +1,13 @@
+{
+    "id": 1006,
+    "category": {
+        "id": 2,
+        "name": "Salvaje"
+    },
+    "name": "PugCarlino_Luna",
+    "photoUrls": ["https://photo.url/badpets.jpg"],
+    "tags": [
+        {"id": 12, "name": "coco"}
+    ],
+    "status": "sold"
+}

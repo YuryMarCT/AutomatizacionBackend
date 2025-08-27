@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1006,
+    "category": {
+      "id": 1,
+      "name": "Domestico"
+    },
+    "name": "Pug_Luna",
+    "photoUrls": [
+      "https://photo.url/goodpets.jpg"
+    ],
+    "tags": [
+      {
+        "id": 12345,
+        "name": "conie"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 1004,
+    "category": {
+      "id": 2,
+      "name": "Salvaje"
+    },
+    "name": "Tiger_Max",
+    "photoUrls": [
+      "https://photo.url/wildpets.jpg"
+    ],
+    "tags": [
+      {
+        "id": 12346,
+        "name": "max"
+      }
+    ],
+    "status": "available"
+  }
+]
